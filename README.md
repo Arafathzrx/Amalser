@@ -7,11 +7,11 @@
 <img src=https://i.imgur.com/w89FHm7.jpeg>
 </p>
   <p align="center">
-<a href="https://github.com/Amal-ser"><img title="Author" src="https://img.shields.io/badge/Author-Amal-ser/Amalser?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/Arafathzrx"><img title="Author" src="https://img.shields.io/badge/Author-Arafathzrx/Amalser?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/Amal-ser">Amal-ser</a> to make it public
+Project created by <a href="https://github.com/Arafathzrx">Arafathzrx</a> to make it public
     <br>
        | © |
         Reserved |
@@ -39,7 +39,7 @@ https://www.instagram.com/p/CCdcH3FBd1a/?utm_medium=copy_link
 
 
   
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Amalser/Amalser)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Arafathzrx/Amalser)
   
 ### The Hard Method
 ```js
@@ -55,7 +55,7 @@ $ node Amalser.js
       
 ```js
 SETUP
-$ git clone https://github.com/Amal-ser/Amalser
+$ git clone https://github.com/Arafathzrx/Amalser
 $ cd Amalser
 $ npm i
 $ node Amalser.js
@@ -83,7 +83,7 @@ Click WA logo to Join Support Group 👇
   [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/CbRlEux876XFsWQfIlOKty)
   <div align="center">
        
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Amal-ser&repo=Amalser&theme=nightowl)](https://github.com/Amal-ser/Amalser)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Arafathzrx&repo=Amalser&theme=nightowl)](https://github.com/Arafathzrx/Amalser)
   </div>
     
 ### ⚠ Warning ⚠
