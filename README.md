@@ -46,7 +46,7 @@ https://www.instagram.com/p/CCdcH3FBd1a/?utm_medium=copy_link
 GET QR
 $ apt install git
 $ apt install nodejs --fix-missing
-$ git clone https://github.com/Amal-ser/Amalser
+$ git clone https://github.com/Arafathzrx/Amalser
 $ cd Amalser
 $ npm install @adiwajshing/baileys
 $ npm install chalk
